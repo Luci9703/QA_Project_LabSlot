@@ -1,1 +1,1 @@
-Popis
+V rámci kurzu Manual Tester jsem zpracovala testovací dokumentaci pro webovou aplikaci podle dodané specifikace a návrhu ve Figmě. Vlastní projekt jsem organizovala v Jira, kde jsem vytvořila User Stories, testovací scénáře a test cases a vzájemně je propojila.
