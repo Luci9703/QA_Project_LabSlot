@@ -13,4 +13,9 @@ Jako student nebo vyučující, chci se do aplikace přihlašovat pomocí své u
 4. Po třech neúspěšných pokusech se tlačítko pro přihlášení dočasně zablokuje na 30 sekund.
 5. Po úspěšném přihlášení se relace uloží na zařízení a uživatel je přesměrován na hlavní obrazovku katalogu.
 
+Pokrytí cesty
+
+
+![US-01 – propojení User Story s Test Cases](images/US-01.png)
+
 
