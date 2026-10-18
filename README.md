@@ -2,7 +2,7 @@
 
 **Testovací návrh pro univerzitní rezervační systém laboratoří a vybavení | Verze 1.0**
 
-## 📂 O projektu
+## 🎯 O projektu
 
 V rámci kurzu Manual Tester jsem pracovala s testovací dokumentací
 pro webovou aplikaci LabSlot a seznámila se s dodanou specifikací
@@ -14,12 +14,12 @@ a test cases, které jsem následně propojila s jednotlivými požadavky.
 
 V rámci kurzu nebyla k dispozici funkční verze aplikace, proto se
 projekt zaměřuje na analýzu požadavků, návrh testů a organizaci
-testovací dokumentace. Test cases nebyly reálně exekuovány.
+testovací dokumentace. Test cases nebyly reálně testovány.
 
 ## 🛠️ Použité nástroje
 
 - Jira
-- QAlity / QAlity Plus
+- QAlity Plus
 - Figma
 
 ## 📋 Podklady
@@ -57,11 +57,11 @@ Traceability v Jira
 - Equivalence Partitioning
 - Boundary Value Analysis
 
-## Ukázka práce v Jira
+## 🔗 Ukázka práce v Jira
 
 [sem později vložíme screenshot]
 
-## Struktura repozitáře
+## 📂 Struktura repozitáře
 
 [sem doplníme až podle toho, jaké složky skutečně vytvoříme]
 
