@@ -7,7 +7,7 @@ V Jira jsem vytvořila Story, které obsahuje user story a akceptační kritéri
 ## 🔍 Pozitivní Test Case
 
 
-### 📝 US-01: Přihlášení univerzitním e-mailem
+### 🧪 US-01: Přihlášení univerzitním e-mailem
 <br>
 
 #### User Story:
@@ -36,7 +36,7 @@ Test case jsem následně propojila s příslušnou user story, aby byla zachov�
 <br>
 <br>
 
-### Test Cases v QAlity Plus k US-01: Přihlášení univerzitním e-mailem
+### 🧪 Test Cases v QAlity Plus k US-01: Přihlášení univerzitním e-mailem
 <br>
 
 Níže uvádím jako ukázku detail test case MALS-26 – Ověřit přihlášení platnými přihlašovacími údaji.
