@@ -7,7 +7,7 @@ V Jira jsem vytvořila Story, které obsahuje user story a akceptační kritéri
 ## 🔍 Test Cases
 
 
-### 📝 US-01: Přihlášení univerzitním e-mailem
+### 📝 US-01: Přihlášení univerzitním e-mailem (POZITIVNÍ TEST)
 <br>
 
 #### User Story:
