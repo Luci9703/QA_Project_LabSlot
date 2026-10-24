@@ -3,7 +3,6 @@
 V Jira jsem zpracovala veškeré požadavky z dokumentace a rozdělila si je podle oblastí do jednotlivých sprintů. V ukázce budu poožívat Sprint 1 - Přihlášení, bezpečnost a profil uživatele.
 V Jira jsem vytvořila Story, které obsahuje User Story a Acceptance Criteria, které byly uvedeny v dokumentaci.
 <br>
----
 
 ### ✅ Test Cases
 
@@ -20,8 +19,11 @@ Jako student nebo vyučující, chci se do aplikace přihlašovat pomocí své u
 3. Při zadání nesprávného hesla se zobrazí chybová zpráva: „Nesprávný e-mail nebo heslo“. Vyplněný e-mail zůstává zachován.
 4. Po třech neúspěšných pokusech se tlačítko pro přihlášení dočasně zablokuje na 30 sekund.
 5. Po úspěšném přihlášení se relace uloží na zařízení a uživatel je přesměrován na hlavní obrazovku katalogu.
+<br>
 
-
+Na základě User Story a Acceptance critaria jsem vytvořila tyto Test Case prostředctvím pluginu Quality Plus. Popisovala jsem zde jednotlivé kroky, očekávaný a skutečný výsledek.
+Veškeré Test Case jsem propojila se Story tak, aby bylo přehledně vidět, co daným testem testujeme.
+<br>
 
 ![TC-001 MALS26](images/MALS26.png)
 <br>
