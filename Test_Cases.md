@@ -25,9 +25,3 @@ Na základě User Story a Acceptance critaria jsem vytvořila tyto Test Case pro
 Veškeré Test Case jsem propojila se Story tak, aby bylo přehledně vidět, co daným testem testujeme.
 <br>
 
-![TC-001 MALS26](images/MALS26.png)
-<br>
----
-![TC-001 MALS26](images/MALS-26a.png)
-<br>
----
