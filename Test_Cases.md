@@ -25,12 +25,19 @@ Jako student nebo vyučující, chci se do aplikace přihlašovat pomocí své u
 #### 🗂️ Ukázka položek Sprintu 1
 ![Položky sprintu 1](images/mals_sprint1.png)
 
-Na základě User Story a Acceptance critaria jsem vytvořila tyto Test Case prostředctvím pluginu Quality Plus. U jednotlivých test cases jsem definovala preconditions, testovací kroky, testovací data a očekávané výsledky.
-Veškeré Test Case jsem propojila se Story tak, aby bylo přehledně vidět, co daným testem testujeme.
+Na základě User Story a Acceptance Criteria jsem navrhla test cases, které jsem zpracovala pomocí nástroje QAlity Plus v Jira. U jednotlivých test cases jsem definovala preconditions, testovací kroky, testovací data a očekávané výsledky.
+
+Test cases jsem následně propojila s příslušnou User Story, aby byla zachována dohledatelnost mezi požadavky a navrženými testy (traceability).
 <br>
 
 #### 🔗 Připojené požadavky v  Jira k US-01: Přihlášení univerzitním e-mailem
 ![Připojené požadavky](images/mals1_tested.png)
+<br>
+<br>
+
+### Test Cases v QAlity Plus
+
+
 
 
 
