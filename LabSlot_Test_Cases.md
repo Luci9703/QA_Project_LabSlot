@@ -1,12 +1,13 @@
 # 📋 Tvorba Test Cases na základě dokumentace v Jira
 <br>
 V Jira jsem zpracovala požadavky z dodané dokumentace a rozdělila je podle jednotlivých oblastí do sprintů. V této ukázce prezentuji Sprint 1 – Přihlašování, bezpečnost a profil uživatele.
-V Jira jsem vytvořila Story, které obsahuje user story a akceptační kritéria, které byly uvedeny v dokumentaci.
+V Jira jsem vytvořila Stories, které obsahuje user story a akceptační kritéria, které byly uvedeny v dokumentaci.
 <br>
 
 ## 🔍 Test Case 1
-
-
+<br>
+Jako první ukázku uvádím pozitivní test ověřující úspěšné přihlášení uživateleplatnými přihlašovacími údaji.
+<br>
 ### 🧪 US-01: Přihlášení univerzitním e-mailem
 <br>
 
@@ -54,6 +55,9 @@ Níže uvádím jako ukázku detail test case MALS-26: Ověřit přihlášení p
 
 
 ## 🔍 Test Case 2
+<br>
+Druhá ukázka je zaměřena na bezpečnostní chování aplikace po odhlášení uživatele. Ověřuje, že se uživatel po kliknutí na tlačítko "Zpět" po odhlášení nemůže vrátit zpět do účtu, ze kterého se odhlásil.
+<br>
 
 ### 🧪 US-05: Bezpečné odhlášení z aplikace
 
@@ -90,6 +94,8 @@ Níže uvádím jako ukázku detail test case MALS-63: Ověřit znemožnění n�
 <br>
 
 ![Test Case v QAlity Plus](images/mals05b.png)
+
+
 
 <br>
 
