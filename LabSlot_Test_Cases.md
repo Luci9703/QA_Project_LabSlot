@@ -1,7 +1,7 @@
 # 📋 Tvorba Test Cases na základě dokumentace v Jira
 
-V Jira jsem zpracovala požadavky z dodané dokumentace a rozdělila je podle jednotlivých oblastí do sprintů. V této ukázce prezentuji Sprint 1 – Přihlašování, bezpečnost a profil uživatele.
-V Jira jsem vytvořila Stories, které obsahuje user story a akceptační kritéria, které byly uvedeny v dokumentaci.
+V nástroji Jira jsem zpracovala požadavky z dodané dokumentace a rozdělila je podle jednotlivých oblastí do sprintů. V této ukázce prezentuji Sprint 1 – Přihlašování, bezpečnost a profil uživatele.
+Dále jsem v nástroji Jira vytvořila Stories, které obsahují user story a akceptační kritéria, které byly uvedeny v dokumentaci.
 <br>
 
 ## 🔍 Test Case 1
@@ -58,9 +58,9 @@ Níže uvádím jako ukázku detail test case MALS-26: Ověřit přihlášení p
 - ověřit přihlášení pouze s vyplněným emailem
 - ověřit přihlášení pouze s vyplněným heslem
 - ověřit přihlášení emailem v neplatném formátu
-- ověřit správnost chybových hlášek
-- ověřit délku a povolené znaky hesla podle dokumentace
-- ověřit používání malých a velkých písmen
+- ověřit správnost validačních a chybových hlášek
+- ověřit hraniční hodnoty délky hesla a povolené znaky hesla podle dokumentace
+- ověřit chování e-mailové adresy při používání malých a velkých písmen
 
 <br>
 <br>
