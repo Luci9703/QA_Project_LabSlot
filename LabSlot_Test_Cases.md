@@ -54,6 +54,17 @@ Níže uvádím jako ukázku detail test case MALS-26: Ověřit přihlášení p
 <br>
 <br>
 
+### 💡 Další návrhy k testování
+- ověřit odeslání prázdného přihlašovacího formuláře
+- ověřit přihlášení pouzen s vyplněným emailem
+- ověřit přihlášení pouze s vyplněným heslem
+- ověřit přihlášení emailem v neplatném formátu
+- ověřit správnost chybových hlášek
+- ověřit délku a povolené znaky hesla podle dokumentace
+- ověřit používání malých a velkých písmen
+
+<br>
+<br>
 
 ## 🔍 Test Case 2
 
@@ -97,9 +108,8 @@ Níže uvádím jako ukázku detail test case MALS-63: Ověřit znemožnění n�
 
 ![Test Case v QAlity Plus](images/mals05b.png)
 
-
-
 <br>
+
 
 
 
