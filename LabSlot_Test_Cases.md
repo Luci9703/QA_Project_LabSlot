@@ -52,7 +52,6 @@ Níže uvádím jako ukázku detail test case MALS-26: Ověřit přihlášení p
 ![Test Case v QAlity Plus](images/mals26_qalitytest.png)
 
 <br>
-<br>
 
 ### 💡 Další návrhy k testování
 - ověřit odeslání prázdného přihlašovacího formuláře
