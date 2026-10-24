@@ -1,7 +1,7 @@
 # 📋 Tvorba Test Cases na základě dokumentace v Jira
 <br>
-V Jira jsem zpracovala veškeré požadavky z dokumentace a rozdělila si je podle oblastí do jednotlivých sprintů. V ukázce budu poožívat Sprint 1 - Přihlášení, bezpečnost a profil uživatele.
-V Jira jsem vytvořila Story, které obsahuje User Story a Acceptance Criteria, které byly uvedeny v dokumentaci.
+V Jira jsem zpracovala požadavky z dodané dokumentace a rozdělila je podle jednotlivých oblastí do sprintů. V této ukázce prezentuji Sprint 1 – Přihlašování, bezpečnost a profil uživatele.
+V Jira jsem vytvořila Story, které obsahuje user story a akceptační kritéria, které byly uvedeny v dokumentaci.
 <br>
 
 ## 🔍 Test Cases
@@ -10,7 +10,7 @@ V Jira jsem vytvořila Story, které obsahuje User Story a Acceptance Criteria, 
 ### 📝 US-01: Přihlášení univerzitním e-mailem
 <br>
 
-#### User story:
+#### User Story:
 
 Jako student nebo vyučující, chci se do aplikace přihlašovat pomocí své univerzitní e-mailové adresy a hesla, abych získal přístup k rozvrhu laboratoří podle svých oprávnění.
 
@@ -26,9 +26,9 @@ Jako student nebo vyučující, chci se do aplikace přihlašovat pomocí své u
 ### 🗂️ Ukázka položek Sprintu 1
 ![Položky sprintu 1](images/mals_sprint1.png)
 
-Na základě User Story a Acceptance Criteria jsem navrhla test cases, které jsem zpracovala pomocí nástroje QAlity Plus v Jira. U jednotlivých test cases jsem definovala preconditions, testovací kroky, testovací data a očekávané výsledky.
+Na základě user story a akceptačních kritérií jsem navrhla test cases, které jsem zpracovala pomocí nástroje QAlity Plus v Jira. U jednotlivých test cases jsem definovala předpoklady (preconditions), testovací kroky, testovací data a očekávané výsledky.
 
-Test cases jsem následně propojila s příslušnou User Story, aby byla zachována dohledatelnost mezi požadavky a navrženými testy (traceability).
+Test case jsem následně propojila s příslušnou user story, aby byla zachována dohledatelnost mezi požadavky a navrženými testy (traceability).
 <br>
 
 ### 🔗 Připojené požadavky v  Jira k US-01: Přihlášení univerzitním e-mailem
@@ -39,12 +39,15 @@ Test cases jsem následně propojila s příslušnou User Story, aby byla zachov
 ### Test Cases v QAlity Plus k US-01: Přihlášení univerzitním e-mailem
 <br>
 
+Níže uvádím jako ukázku detail test case MALS-26 – Ověřit přihlášení platnými přihlašovacími údaji.
+
+<br>
+
 ![Test Case v QAlity Plus](images/mals26_qality.png)
 
 <br>
 
 ![Test Case v QAlity Plus](images/mals26_qalitytest.png)
-
 <br>
 
 
