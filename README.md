@@ -39,23 +39,8 @@ testovací dokumentace. Test cases nebyly reálně testovány, protože nebyla v
 ## 🗂️ Co projekt obsahuje
 
 - User Stories a Acceptance Criteria zpracované podle dokumentace
-- pozitivní a negativní test cases
-- testy hraničních hodnot
-- ukázky práce v Jira
-- propojení User Stories a Test Cases
-- screenshoty testovací dokumentace
-
-## 🔧 Přístup k návrhu testů
-
-- Pozitivní a negativní testovací případy
-- Equivalence Partitioning
-- Boundary Value Analysis
-
-## 🔗 Ukázka práce v Jira
-
-[sem později vložíme screenshot]
-
-## 📂 Struktura repozitáře
-
-[sem doplníme až podle toho, jaké složky skutečně vytvoříme]
+- návrh pozitivních a negativních test cases
+- Test Cases vytvořené v QAlity Plus
+- propojení Stories a Test Cases
+- ukázky testovací dokumentace a tracebility
 
