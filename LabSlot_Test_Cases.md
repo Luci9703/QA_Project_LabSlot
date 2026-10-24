@@ -77,5 +77,13 @@ Jako laborant / správce, chci mít přehledný seznam příchozích žádostí 
 ![Položky sprintu 6](images/mals_sprint6.png)
 
 
+### 🔗 Připojené požadavky v  Jira k US-20: Seznam žádostí čekajících na schválení
+![Připojené požadavky](images/mals26_pozadavky.png)
+<br>
+<br>
+
+### 🧪 Test Cases v QAlity Plus k US-20: Seznam žádostí čekajících na schválení
+<br>
+
 
 
