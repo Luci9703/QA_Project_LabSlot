@@ -36,6 +36,12 @@ Test cases jsem následně propojila s příslušnou User Story, aby byla zachov
 <br>
 
 ### Test Cases v QAlity Plus
+Testovací scénář k US-01: Přihlášení univerzitním e-mailem
+<br>
+![Test Case v QAlity Plus](images/mals26_qality.png)
+<br>
+![Test Case v QAlity Plus](images/mals26_qality test.png)
+<br>
 
 
 
