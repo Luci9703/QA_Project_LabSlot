@@ -27,7 +27,7 @@ Na základě User Story a Acceptance critaria jsem vytvořila tyto Test Case pro
 Veškeré Test Case jsem propojila se Story tak, aby bylo přehledně vidět, co daným testem testujeme.
 <br>
 
-![US-01 Přihlášení univerzitním emailem](images/MALS26.png)
+![US-01 Přihlášení univerzitním emailem](images/Mmals1-připojené položk.png)
 
 
 
