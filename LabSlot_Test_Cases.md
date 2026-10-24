@@ -53,8 +53,6 @@ Níže uvádím jako ukázku detail test case MALS-26: Ověřit přihlášení p
 <br>
 
 
-<br>
-
 ## 🔍 Test Case 2
 
 ### 🧪 US-05: Bezpečné odhlášení z aplikace
@@ -84,5 +82,17 @@ Jako uživatel, chci mít možnost se kdykoliv odhlásit ze svého profilu v nas
 <br>
 
 Níže uvádím jako ukázku detail test case MALS-63: Ověřit znemožnění návratu do profilu tlačítkem "Zpět" po odhlášení
+
+<br>
+
+![Test Case v QAlity Plus](images/mals05a.png)
+
+<br>
+
+![Test Case v QAlity Plus](images/mals05b.png)
+
+<br>
+
+
 
 
