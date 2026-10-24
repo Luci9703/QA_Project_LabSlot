@@ -7,14 +7,14 @@ V Jira jsem vytvořila Story, které obsahuje User Story a Acceptance Criteria, 
 <br>
 ---
 
-![TC-001 mals1](images/mals1- připojené požadavk.png)
+![TC-001 mals1](images/mals1- připojené položk.png)
 <br>
 ---
 
 ### ✅ Test cases
 
 
-![TC-001 MALS26](images/MALS-26.png)
+![TC-001 MALS26](images/MALS26.png)
 <br>
 ---
 ![TC-001 MALS26](images/MALS-26a.png)
