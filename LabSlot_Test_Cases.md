@@ -57,32 +57,29 @@ Níže uvádím jako ukázku detail test case MALS-26 – Ověřit přihlášen�
 
 ## 🔍 Test Case 2
 
-### 🧪 US-20: Seznam žádostí čekajících na schválení
+### 🧪 US-05: Bezpečné odhlášení z aplikace
 
 #### User Story:
 
-Jako laborant / správce, chci mít přehledný seznam příchozích žádostí o přístup ke svěřenému vybavení, abych mohl posoudit účel práce studentů a včas jim potvrdit vstup.
+Jako uživatel, chci mít možnost se kdykoliv odhlásit ze svého profilu v nastavení aplikace, abych ochránil své rezervace při půjčení telefonu jiné osobě.
 
 #### Akceptační kritéria:
 
-1. Správce má v aplikaci k dispozici záložku „Správa žádostí“.
+1. Ve spodní části obrazovky profilu je umístěno tlačítko „Odhlásit se“.
 
-2. Žádosti jsou řazeny chronologicky a obsahují: jméno studenta, ročník/obor, vybraný přístroj a text uvedený jako cíl práce.
+2. Po stisknutí se zobrazí potvrzovací dialog: „Opravdu se chcete odhlásit?“.
 
-3. Na každé kartě jsou dvě hlavní tlačítka: „Schválit“ (zelené) a „Zamítnout“ (červené).
+3. Po potvrzení se přihlašovací klíče odstraní z lokální paměti zařízení.
 
-4. Po stisknutí „Schválit“ se stav rezervace změní na „Potvrzeno“ a student obdrží oznámení.
-
-### 🗂️ Ukázka položek Sprintu 6
-![Položky sprintu 6](images/mals_sprint6.png)
+4. Uživatel je přesměrován na přihlašovací obrazovku a systémové tlačítko „Zpět“ neumožní návrat do odhlášeného profilu
 
 
-### 🔗 Připojené požadavky v  Jira k US-20: Seznam žádostí čekajících na schválení
-![Připojené požadavky](images/mals20_pozadavky.png)
+### 🔗 Připojené požadavky v  Jira k US-05: Bezpečné odhlášení z aplikace
+![Připojené požadavky](images/mals05_pozadavky.png)
 <br>
 <br>
 
-### 🧪 Test Cases v QAlity Plus k US-20: Seznam žádostí čekajících na schválení
+### 🧪 Test Cases v QAlity Plus k US-05: Bezpečné odhlášení z aplikace
 <br>
 
 
