@@ -1,13 +1,13 @@
-# Tvorba test cases na základě dokumentace v Jira
+# 📋 Tvorba test cases na základě dokumentace v Jira
 <br>
 V Jira jsem zpracovala veškeré požadavky z dokumentace a rozdělila si je podle oblastí do jednotlivých sprintů. V ukázce budu poožívat Sprint 1 - Přihlášení, bezpečnost a profil uživatele.
 V Jira jsem vytvořila Story, které obsahuje User Story a Acceptance Criteria, které byly uvedeny v dokumentaci.
 <br>
 
-### ✅ Test Cases
+### 🔍 Test Cases
 
 
-**US-01: Přihlášení univerzitním e-mailem**
+📝 **US-01: Přihlášení univerzitním e-mailem**
 **User story:**
 
 Jako student nebo vyučující, chci se do aplikace přihlašovat pomocí své univerzitní e-mailové adresy a hesla, abych získal přístup k rozvrhu laboratoří podle svých oprávnění.
@@ -21,14 +21,14 @@ Jako student nebo vyučující, chci se do aplikace přihlašovat pomocí své u
 5. Po úspěšném přihlášení se relace uloží na zařízení a uživatel je přesměrován na hlavní obrazovku katalogu.
 <br>
 
-#### Položky Sprintu 1
+#### 🗂️ Položky Sprintu 1
 ![Položky sprintu 1](images/mals_sprint1.png)
 
-Na základě User Story a Acceptance critaria jsem vytvořila tyto Test Case prostředctvím pluginu Quality Plus. Popisovala jsem zde jednotlivé kroky, očekávaný a skutečný výsledek.
+Na základě User Story a Acceptance critaria jsem vytvořila tyto Test Case prostředctvím pluginu Quality Plus. U jednotlivých test cases jsem definovala preconditions, testovací kroky, testovací data a očekávané výsledky.
 Veškeré Test Case jsem propojila se Story tak, aby bylo přehledně vidět, co daným testem testujeme.
 <br>
 
-#### Připojené požadavky v  Jira k US-01: Přihlášení univerzitním e-mailem
+#### 🔗 Připojené požadavky v  Jira k US-01: Přihlášení univerzitním e-mailem
 ![Připojené požadavky](images/mals1_tested.png)
 
 
