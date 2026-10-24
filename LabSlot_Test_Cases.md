@@ -39,7 +39,7 @@ Test case jsem následně propojila s příslušnou user story, aby byla zachov�
 ### 🧪 Test Cases v QAlity Plus k US-01: Přihlášení univerzitním e-mailem
 <br>
 
-Níže uvádím jako ukázku detail test case MALS-26 – Ověřit přihlášení platnými přihlašovacími údaji.
+Níže uvádím jako ukázku detail test case MALS-26: Ověřit přihlášení platnými přihlašovacími údaji.
 
 <br>
 
@@ -73,6 +73,7 @@ Jako uživatel, chci mít možnost se kdykoliv odhlásit ze svého profilu v nas
 
 4. Uživatel je přesměrován na přihlašovací obrazovku a systémové tlačítko „Zpět“ neumožní návrat do odhlášeného profilu
 
+<br>
 
 ### 🔗 Připojené požadavky v  Jira k US-05: Bezpečné odhlášení z aplikace
 ![Připojené požadavky](images/mals05_pozadavky.png)
@@ -82,5 +83,6 @@ Jako uživatel, chci mít možnost se kdykoliv odhlásit ze svého profilu v nas
 ### 🧪 Test Cases v QAlity Plus k US-05: Bezpečné odhlášení z aplikace
 <br>
 
+Níže uvádím jako ukázku detail test case MALS-63: Ověřit znemožnění návratu do profilu tlačítkem "Zpět" po odhlášení
 
 
