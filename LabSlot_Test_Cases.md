@@ -56,7 +56,7 @@ Níže uvádím jako ukázku detail test case MALS-26: Ověřit přihlášení p
 
 ### 💡 Další návrhy k testování
 - ověřit odeslání prázdného přihlašovacího formuláře
-- ověřit přihlášení pouzen s vyplněným emailem
+- ověřit přihlášení pouze s vyplněným emailem
 - ověřit přihlášení pouze s vyplněným heslem
 - ověřit přihlášení emailem v neplatném formátu
 - ověřit správnost chybových hlášek
