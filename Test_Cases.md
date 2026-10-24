@@ -21,7 +21,7 @@ Jako student nebo vyučující, chci se do aplikace přihlašovat pomocí své u
 5. Po úspěšném přihlášení se relace uloží na zařízení a uživatel je přesměrován na hlavní obrazovku katalogu.
 <br>
 
-![US-01 Přihlášení univerzitním emailem](images/mals1-přehled.png)
+![US-01 Přihlášení univerzitním emailem](images/mals1_sprint1.png)
 
 Na základě User Story a Acceptance critaria jsem vytvořila tyto Test Case prostředctvím pluginu Quality Plus. Popisovala jsem zde jednotlivé kroky, očekávaný a skutečný výsledek.
 Veškeré Test Case jsem propojila se Story tak, aby bylo přehledně vidět, co daným testem testujeme.
