@@ -32,7 +32,7 @@ Test cases jsem následně propojila s příslušnou User Story, aby byla zachov
 <br>
 
 ### 🔗 Připojené požadavky v  Jira k US-01: Přihlášení univerzitním e-mailem
-![Připojené požadavky](images/mals1_tested.png)
+![Připojené požadavky](images/mals26_pozadavky.png)
 <br>
 <br>
 
