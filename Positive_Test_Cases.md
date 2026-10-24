@@ -4,10 +4,10 @@ V Jira jsem zpracovala požadavky z dodané dokumentace a rozdělila je podle je
 V Jira jsem vytvořila Story, které obsahuje user story a akceptační kritéria, které byly uvedeny v dokumentaci.
 <br>
 
-## 🔍 Test Cases
+## 🔍 Pozitivní Test Case
 
 
-### 📝 US-01: Přihlášení univerzitním e-mailem (POZITIVNÍ TEST)
+### 📝 US-01: Přihlášení univerzitním e-mailem
 <br>
 
 #### User Story:
