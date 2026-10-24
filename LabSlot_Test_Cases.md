@@ -4,7 +4,7 @@ V Jira jsem zpracovala požadavky z dodané dokumentace a rozdělila je podle je
 V Jira jsem vytvořila Story, které obsahuje user story a akceptační kritéria, které byly uvedeny v dokumentaci.
 <br>
 
-## 🔍 Pozitivní Test Case
+## 🔍 Test Case 1
 
 
 ### 🧪 US-01: Přihlášení univerzitním e-mailem
@@ -48,8 +48,33 @@ Níže uvádím jako ukázku detail test case MALS-26 – Ověřit přihlášen�
 <br>
 
 ![Test Case v QAlity Plus](images/mals26_qalitytest.png)
+
+<br>
 <br>
 
+
+<br>
+
+## 🔍 Test Case 2
+
+### 🧪 US-20: Seznam žádostí čekajících na schválení
+
+#### User Story:
+
+Jako laborant / správce, chci mít přehledný seznam příchozích žádostí o přístup ke svěřenému vybavení, abych mohl posoudit účel práce studentů a včas jim potvrdit vstup.
+
+#### Akceptační kritéria:
+
+1. Správce má v aplikaci k dispozici záložku „Správa žádostí“.
+
+2. Žádosti jsou řazeny chronologicky a obsahují: jméno studenta, ročník/obor, vybraný přístroj a text uvedený jako cíl práce.
+
+3. Na každé kartě jsou dvě hlavní tlačítka: „Schválit“ (zelené) a „Zamítnout“ (červené).
+
+4. Po stisknutí „Schválit“ se stav rezervace změní na „Potvrzeno“ a student obdrží oznámení.
+
+### 🗂️ Ukázka položek Sprintu 6
+![Položky sprintu 6](images/mals_sprint6.png)
 
 
 
