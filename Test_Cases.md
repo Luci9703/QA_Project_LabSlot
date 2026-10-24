@@ -40,7 +40,7 @@ Testovací scénář k US-01: Přihlášení univerzitním e-mailem
 <br>
 ![Test Case v QAlity Plus](images/mals26_qality.png)
 <br>
-![Test Case v QAlity Plus](images/mals26_qality test.png)
+![Test Case v QAlity Plus](images/mals26_qalitytest.png)
 <br>
 
 
