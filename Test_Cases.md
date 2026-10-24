@@ -8,6 +8,7 @@ V Jira jsem vytvořila Story, které obsahuje User Story a Acceptance Criteria, 
 
 
 📝 **US-01: Přihlášení univerzitním e-mailem**
+<br>
 **User story:**
 
 Jako student nebo vyučující, chci se do aplikace přihlašovat pomocí své univerzitní e-mailové adresy a hesla, abych získal přístup k rozvrhu laboratoří podle svých oprávnění.
