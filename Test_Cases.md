@@ -21,12 +21,14 @@ Jako student nebo vyučující, chci se do aplikace přihlašovat pomocí své u
 5. Po úspěšném přihlášení se relace uloží na zařízení a uživatel je přesměrován na hlavní obrazovku katalogu.
 <br>
 
+# Položky Sprintu 1
 ![Položky sprintu 1](images/mals_sprint1.png)
 
 Na základě User Story a Acceptance critaria jsem vytvořila tyto Test Case prostředctvím pluginu Quality Plus. Popisovala jsem zde jednotlivé kroky, očekávaný a skutečný výsledek.
 Veškeré Test Case jsem propojila se Story tak, aby bylo přehledně vidět, co daným testem testujeme.
 <br>
 
+# Připojené požadavky v  Jira k US-01: Přihlášení univerzitním e-mailem
 ![Připojené požadavky](images/mals1_tested.png)
 
 
