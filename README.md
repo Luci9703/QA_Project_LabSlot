@@ -1,11 +1,11 @@
-# LabSlot – QA Project
+# Mobilní apliakce LabSlot
 
 **Testovací návrh pro univerzitní rezervační systém laboratoří a vybavení | Verze 1.0**
 
 ## 🎯 O projektu
 
 V rámci kurzu Manual Tester jsem pracovala s testovací dokumentací
-pro webovou aplikaci LabSlot a seznámila se s dodanou specifikací
+pro mobilní aplikaci LabSlot a seznámila se s dodanou specifikací
 a designovým návrhem ve Figmě.
 
 Vlastní projekt jsem organizovala v nástroji Jira. Na základě
@@ -39,8 +39,7 @@ testovací dokumentace. Test cases nebyly reálně testovány, protože nebyla v
 ## 🗂️ Co projekt obsahuje
 
 - User Stories a Acceptance Criteria zpracované podle dokumentace
-- návrh pozitivních a negativních test cases
-- Test Cases vytvořené v QAlity Plus
+- ukázka Test Cases vytvořené v QAlity Plus
 - propojení Stories a Test Cases
 - ukázky testovací dokumentace a tracebility
 
