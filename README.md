@@ -38,7 +38,7 @@ V rámci kurzu nebyla k dispozici funkční verze aplikace, proto se projekt zam
 ## 🗂️ Co projekt obsahuje
 
 - User Stories a Acceptance Criteria zpracované podle dokumentace
-- ukázka Test Cases vytvořené v QAlity Plus
+- ukázka Test Cases vytvořených v QAlity Plus
 - propojení Stories a Test Cases
 - ukázky testovací dokumentace a propojování požadavků
 
