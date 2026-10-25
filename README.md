@@ -11,9 +11,9 @@ a designovým návrhem ve Figmě.
 Vlastní projekt jsem organizovala v nástroji Jira. Na základě
 User Stories a Acceptance Criteria jsem vytvářela test cases, které jsem následně propojila s jednotlivými požadavky.
 
-V rámci kurzu nebyla k dispozici funkční verze aplikace, proto se
-projekt zaměřuje na analýzu požadavků, návrh testů a organizaci
-testovací dokumentace. Test cases nebyly reálně testovány, protože nebyla v dispozici funkční verze aplikace.
+V rámci kurzu nebyla k dispozici funkční verze aplikace, proto se projekt zaměřuje na analýzu požadavků, návrh testů a organizaci testovací dokumentace. Navržené test cases proto nebyly reálně provedeny.
+
+2.
 
 ## 🛠️ Použité nástroje
 
