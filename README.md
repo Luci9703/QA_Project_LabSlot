@@ -30,11 +30,10 @@ testovací dokumentace. Test cases nebyly reálně testovány, protože nebyla v
 
 ## 🧠 Jak jsem v projektu postupovala?
 
-1. Requirements / Documentation
-2. User Stories
-3. Acceptance Criteria
-4. Test Cases
-5. Traceability v Jira
+1. Seznámení s dokumentací, požadavky a designovým návrhem
+2. Zpracování Storis v nástroji Jira - vložení User Stories a Acceptance Criteria z dokumentace
+4. Tvorba Test Cases
+5. Propojování požadavků v Jira
 
 ## 🗂️ Co projekt obsahuje
 
