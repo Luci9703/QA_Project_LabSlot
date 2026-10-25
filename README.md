@@ -31,14 +31,14 @@ testovací dokumentace. Test cases nebyly reálně testovány, protože nebyla v
 ## 🧠 Jak jsem v projektu postupovala?
 
 1. Seznámení s dokumentací, požadavky a designovým návrhem
-2. Zpracování Storis v nástroji Jira - vložení User Stories a Acceptance Criteria z dokumentace
+2. Zpracování Stories v nástroji Jira - vložení User Stories a Acceptance Criteria z dokumentace
 4. Tvorba Test Cases
-5. Propojování požadavků v Jira
+5. Propojování Stories a Test Cases v Jira
 
 ## 🗂️ Co projekt obsahuje
 
 - User Stories a Acceptance Criteria zpracované podle dokumentace
 - ukázka Test Cases vytvořené v QAlity Plus
 - propojení Stories a Test Cases
-- ukázky testovací dokumentace a tracebility
+- ukázky testovací dokumentace a propojování požadavků
 
