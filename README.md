@@ -1,4 +1,4 @@
-# Mobilní apliakce LabSlot
+# Mobilní aplikace LabSlot
 
 **Testovací návrh pro univerzitní rezervační systém laboratoří a vybavení | Verze 1.0**
 
